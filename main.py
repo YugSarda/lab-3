@@ -13,9 +13,7 @@ b = 7
 #print(np.dot(a, b))
 output=np.dot(a, b)
 print(output)
-#this is done using numpy pandas
-#python
-#hi
+
 #hello
 #wrld
 #>>>>>>> parallel
